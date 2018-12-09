@@ -1,2 +1,2 @@
 # C-plus-plus
-Some test programs for learning c++
+Some test programs solution in learning c++
