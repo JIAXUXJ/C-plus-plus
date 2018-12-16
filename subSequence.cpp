@@ -12,7 +12,6 @@ class Series{
 };
 
 void Series::initialSeq(int i){
-
     initialNum = i;
     cout << "please enter every number in this Sequence:";
 
